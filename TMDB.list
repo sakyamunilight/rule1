@@ -1,0 +1,18 @@
+# 代理补充列表
+# 域名后缀匹配
+
+# TMDB 相关
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+
+# TheTVDB 相关
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,thetvdb.org
+
+# Bangumi（番组计划）相关
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,chii.in
+
+# 其他影视信息源（原列表中的保留项）
+DOMAIN-SUFFIX,farnat.tv
